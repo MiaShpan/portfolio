@@ -1,0 +1,80 @@
+body{
+    font-family:  'Nunito Sans', sans-serif, Helvetica;
+}
+/*-------menu--------*/
+a{
+    text-decoration: none; /* no underline */
+    color: black;
+    Display:inline-block;
+}
+a, a:visited{
+    color:black; 
+}
+.menu{
+    font-size: 120%;
+    text-transform: uppercase;
+}
+#clicked{
+    color: grey;
+}
+
+#upperMenu{
+    height: 100px;
+    margin-left: -30px;
+}
+
+#about :hover{
+    text-decoration: none;
+    color: grey;
+}
+
+#portfolio :hover{
+    text-decoration: none;
+    color: grey;
+}
+
+#siteName :hover{
+    text-decoration: none;
+}
+
+#siteName{
+    font-size: 250%;
+    text-transform: uppercase;
+}
+/*end menu */
+
+/*----------text----------*/
+
+
+h1{
+    font-size: 58px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 23px;
+}
+
+h3{
+    font-size: 16px;
+}
+p{
+    text-align: justify;
+    padding-right: 25px;
+}
+/*----------end text----------*/
+
+img{
+    width: 423px;
+    height: 423px;
+    border: #bebebe 1px solid;
+}
+
+.clip{
+    padding-left: 0%;
+
+}
+.bandLink :hover{
+    color: grey;
+    text-decoration: none;
+}

@@ -1,0 +1,102 @@
+body{
+    font-family:  'Nunito Sans', sans-serif, Helvetica;
+}
+/*menu*/
+a{
+    text-decoration: none; /* no underline */
+    color: black;
+    Display:inline-block;
+}
+a, a:visited{
+    color:black; 
+}
+.menu{
+    font-size: 120%;
+    text-transform: uppercase;
+}
+#clicked{
+    color: grey;
+}
+
+#upperMenu{
+    height: 100px;
+    margin-left: -30px;
+}
+
+#about :hover{
+    text-decoration: none;
+    color: grey;
+}
+
+#portfolio :hover{
+    text-decoration: none;
+    color: grey;
+}
+
+#siteName :hover{
+    text-decoration: none;
+}
+
+#siteName{
+    font-size: 250%;
+    text-transform: uppercase;
+}
+/*end menu */
+
+
+
+.hover:hover img {
+    opacity: 0.7;
+}
+
+.main1{
+    transform: rotate(-90deg);
+    Display:inline-block;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    font-weight: bold;
+    width: 308px;
+}
+
+
+#cooper{
+    width: 308px;
+    height: 308px;
+}
+
+
+#musicVideo{
+    width: 411px;
+    height: 308px;
+}
+.main{
+    width: 0;
+    height: 0;
+}
+#vrText{
+    Display:inline-block;
+    text-transform: uppercase;
+    vertical-align: baseline;
+    font-weight: bold;
+    width: 308px;
+    font-size: 160px;
+    padding-left: 100px;
+}
+    
+
+#vr{
+    width: 584px;
+    height: 308px;
+}
+
+
+#graphics{
+    width: 308;
+    height: 308px;
+}
+
+
+#coding{
+    width: 308;
+    height: 308px;
+}
