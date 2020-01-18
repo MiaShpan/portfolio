@@ -49,6 +49,7 @@ a, a:visited{
     opacity: 0.7;
 }
 
+
 .main1{
     transform: rotate(-90deg);
     Display:inline-block;
@@ -58,17 +59,6 @@ a, a:visited{
     width: 308px;
 }
 
-
-#cooper{
-    width: 308px;
-    height: 308px;
-}
-
-
-#musicVideo{
-    width: 411px;
-    height: 308px;
-}
 .main{
     width: 0;
     height: 0;
@@ -82,21 +72,4 @@ a, a:visited{
     font-size: 160px;
     padding-left: 100px;
 }
-    
 
-#vr{
-    width: 584px;
-    height: 308px;
-}
-
-
-#graphics{
-    width: 308;
-    height: 308px;
-}
-
-
-#coding{
-    width: 308;
-    height: 308px;
-}
