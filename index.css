@@ -1,5 +1,7 @@
 body{
     font-family:  'Nunito Sans', sans-serif, Helvetica;
+    margin-left: 7%;
+    padding-left: 5%;
 }
 /*menu*/
 a{
@@ -73,6 +75,3 @@ a, a:visited{
     padding-left: 100px;
 }
 
-.page{
-    margin-left: 10%;
-}

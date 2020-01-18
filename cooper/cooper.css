@@ -1,6 +1,18 @@
 body{
     font-family:  'Nunito Sans', sans-serif, Helvetica;
+
 }
+.up{
+    margin-left: 7%;
+    padding-left: 5%;
+}
+
+.page{
+    margin-left: 7%;
+    padding-left: 5%;
+
+}
+
 
 /*--------- menu ---------*/
 a{
@@ -109,7 +121,7 @@ p{
 } */
 .pic{
     padding: 0px 0px 0px 0px;
-    width: 255px;
+    width: 230px;
     height: 151px; 
 }
 

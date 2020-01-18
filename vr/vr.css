@@ -1,6 +1,10 @@
 body{
     font-family:  'Nunito Sans', sans-serif, Helvetica;
 }
+.page{
+    margin-left: 6%;
+    padding-left: 7%;
+}
 
 /*menu*/
 a{
